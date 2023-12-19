@@ -1,0 +1,42 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "caption": "Fried Rice",
+      "url": "https://www.averiecooks.com/wp-content/uploads/2022/05/beeffriedrice-13-540x720.jpg",
+      "description": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, ...",
+      "embedLink": "https://www.youtube.com/embed/0HEZ1MWFwvw",
+      "Comment": "very good"
+    },
+    {
+      "id": "2",
+      "caption": "Biriyani",
+      "url": "https://spicecravings.com/wp-content/uploads/2022/09/What-is-Biryani-Featured-1.jpg",
+      "description": "Biryani  is a mixed rice dish originating among the Muslims of South Asia. It is made with rice, some type of meat (chicken, beef, goat, lamb, prawn, or fish) and spices. ",
+      "embedLink": "https://www.youtube.com/embed/4Sn7ZavopQk",
+      "Comment": "tasty"
+    },
+    {
+      "id": "3",
+      "caption": "Chilli Chicken ",
+      "url": "https://www.licious.in/blog/wp-content/uploads/2022/04/shutterstock_1498639676-min.jpg",
+      "description": "Chilli chicken is a popular Indo-chinese appetizer made by tossing fried chicken in spicy hot chilli sauce. Learn to make the best at home.",
+      "embedLink": "https://www.youtube.com/embed/zRgWw5LhCv0"
+    },
+    {
+      "id": "4",
+      "caption": "Fish Curry",
+      "url": "https://www.licious.in/blog/wp-content/uploads/2020/12/Perfectly-balanced-fish-curry.jpg",
+      "description": "This Fish Curry is satisfying, nutritious and packed with a burst of Indian flavors. Onions, tomatoes, spices & herbs enrich the taste ",
+      "embedLink": "https://www.youtube.com/embed/BKXCwWqS12s"
+    },
+    {
+      "id": "5",
+      "caption": "Kuzhimanthi",
+      "url": "https://t3.ftcdn.net/jpg/03/24/50/54/360_F_324505480_RTE4AmVPsYP96f99g88gEwabe65mSvak.jpg",
+      "description": "Kuzhimanthi which has gained massive popularity in Kerala, has its origins in Yemen. The Arab people like to enjoy the sumptuous manthi on",
+      "embedLink": "https://www.youtube.com/embed/vpbM727Saz0"
+    }
+  ],
+  "categories": []
+}
